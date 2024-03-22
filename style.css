@@ -2,5 +2,7 @@ body{
     background-color: mediumblue;
     font-size: 30px;
     color: aliceblue;
-    
+}
+h1{
+    text-align: center;
 }
