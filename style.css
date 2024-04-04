@@ -3,12 +3,13 @@ body{
     font-size: 30px;
     color: aliceblue;
 }
+
 h1{
     text-align: center;
 }
-img{
 
-    width: 30%;style= "float: left";
+img{
+    width: 30%;
     display: block;
     margin: auto;
     padding: 50px;
