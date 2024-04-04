@@ -9,8 +9,14 @@ h1{
 }
 
 img{
-    width: 600px;
     padding: 50px;
     border: darkred;
 }
 
+.imgretrato{
+    width: 300px;
+}
+
+.imgpaisagem{
+    width: 600px;
+}
